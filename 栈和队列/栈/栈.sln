@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20. Valid Parentheses", "20. Valid Parentheses\20. Valid Parentheses.vcxproj", "{3C981878-EFC1-4272-90EC-F40398CCEB09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32. Longest Valid Parentheses", "32. Longest Valid Parentheses\32. Longest Valid Parentheses.vcxproj", "{A14E8D2D-5E61-4C75-A3D7-449300072199}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "84. Largest Rectangle in Histogram", "84. Largest Rectangle in Histogram\84. Largest Rectangle in Histogram.vcxproj", "{9DC30D55-1D1B-47D8-8245-3E5B0AEF32FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "150. Evaluate Reverse Polish Notation", "150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation.vcxproj", "{BE0F1321-4A48-448B-B744-5F728FB16BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C981878-EFC1-4272-90EC-F40398CCEB09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C981878-EFC1-4272-90EC-F40398CCEB09}.Debug|Win32.Build.0 = Debug|Win32
+		{3C981878-EFC1-4272-90EC-F40398CCEB09}.Release|Win32.ActiveCfg = Release|Win32
+		{3C981878-EFC1-4272-90EC-F40398CCEB09}.Release|Win32.Build.0 = Release|Win32
+		{A14E8D2D-5E61-4C75-A3D7-449300072199}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A14E8D2D-5E61-4C75-A3D7-449300072199}.Debug|Win32.Build.0 = Debug|Win32
+		{A14E8D2D-5E61-4C75-A3D7-449300072199}.Release|Win32.ActiveCfg = Release|Win32
+		{A14E8D2D-5E61-4C75-A3D7-449300072199}.Release|Win32.Build.0 = Release|Win32
+		{9DC30D55-1D1B-47D8-8245-3E5B0AEF32FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9DC30D55-1D1B-47D8-8245-3E5B0AEF32FC}.Debug|Win32.Build.0 = Debug|Win32
+		{9DC30D55-1D1B-47D8-8245-3E5B0AEF32FC}.Release|Win32.ActiveCfg = Release|Win32
+		{9DC30D55-1D1B-47D8-8245-3E5B0AEF32FC}.Release|Win32.Build.0 = Release|Win32
+		{BE0F1321-4A48-448B-B744-5F728FB16BAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE0F1321-4A48-448B-B744-5F728FB16BAC}.Debug|Win32.Build.0 = Debug|Win32
+		{BE0F1321-4A48-448B-B744-5F728FB16BAC}.Release|Win32.ActiveCfg = Release|Win32
+		{BE0F1321-4A48-448B-B744-5F728FB16BAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
