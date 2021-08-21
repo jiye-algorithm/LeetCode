@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "111. Minimum Depth of Binary Tree", "..\111. Minimum Depth of Binary Tree\111. Minimum Depth of Binary Tree.vcxproj", "{BA04A0C3-4383-4674-9CD7-5460CBDC29E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "112. Path Sum", "112. Path Sum\112. Path Sum.vcxproj", "{74BB8734-99E2-46EA-92A5-9C4DBAD2C583}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "113. Path Sum II", "113. Path Sum II\113. Path Sum II.vcxproj", "{9F13A7B1-2D47-438B-BC30-D6C23DF1D0C8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "124. Binary Tree Maximum Path Sum", "124. Binary Tree Maximum Path Sum\124. Binary Tree Maximum Path Sum.vcxproj", "{3A72DCC3-13EF-4DCE-916C-79FA14970C15}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "116. Populating Next Right Pointers in Each Node", "116. Populating Next Right Pointers in Each Node\116. Populating Next Right Pointers in Each Node.vcxproj", "{EA845BEB-95A5-4BB6-ABFE-56E54F7DE29E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "129. Sum Root to Leaf Numbers", "129. Sum Root to Leaf Numbers\129. Sum Root to Leaf Numbers.vcxproj", "{E9A9E546-439F-45DE-8B2A-45E7826118EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA04A0C3-4383-4674-9CD7-5460CBDC29E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA04A0C3-4383-4674-9CD7-5460CBDC29E8}.Debug|Win32.Build.0 = Debug|Win32
+		{BA04A0C3-4383-4674-9CD7-5460CBDC29E8}.Release|Win32.ActiveCfg = Release|Win32
+		{BA04A0C3-4383-4674-9CD7-5460CBDC29E8}.Release|Win32.Build.0 = Release|Win32
+		{74BB8734-99E2-46EA-92A5-9C4DBAD2C583}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74BB8734-99E2-46EA-92A5-9C4DBAD2C583}.Debug|Win32.Build.0 = Debug|Win32
+		{74BB8734-99E2-46EA-92A5-9C4DBAD2C583}.Release|Win32.ActiveCfg = Release|Win32
+		{74BB8734-99E2-46EA-92A5-9C4DBAD2C583}.Release|Win32.Build.0 = Release|Win32
+		{9F13A7B1-2D47-438B-BC30-D6C23DF1D0C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F13A7B1-2D47-438B-BC30-D6C23DF1D0C8}.Debug|Win32.Build.0 = Debug|Win32
+		{9F13A7B1-2D47-438B-BC30-D6C23DF1D0C8}.Release|Win32.ActiveCfg = Release|Win32
+		{9F13A7B1-2D47-438B-BC30-D6C23DF1D0C8}.Release|Win32.Build.0 = Release|Win32
+		{3A72DCC3-13EF-4DCE-916C-79FA14970C15}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A72DCC3-13EF-4DCE-916C-79FA14970C15}.Debug|Win32.Build.0 = Debug|Win32
+		{3A72DCC3-13EF-4DCE-916C-79FA14970C15}.Release|Win32.ActiveCfg = Release|Win32
+		{3A72DCC3-13EF-4DCE-916C-79FA14970C15}.Release|Win32.Build.0 = Release|Win32
+		{EA845BEB-95A5-4BB6-ABFE-56E54F7DE29E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA845BEB-95A5-4BB6-ABFE-56E54F7DE29E}.Debug|Win32.Build.0 = Debug|Win32
+		{EA845BEB-95A5-4BB6-ABFE-56E54F7DE29E}.Release|Win32.ActiveCfg = Release|Win32
+		{EA845BEB-95A5-4BB6-ABFE-56E54F7DE29E}.Release|Win32.Build.0 = Release|Win32
+		{E9A9E546-439F-45DE-8B2A-45E7826118EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9A9E546-439F-45DE-8B2A-45E7826118EF}.Debug|Win32.Build.0 = Debug|Win32
+		{E9A9E546-439F-45DE-8B2A-45E7826118EF}.Release|Win32.ActiveCfg = Release|Win32
+		{E9A9E546-439F-45DE-8B2A-45E7826118EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
